@@ -21,7 +21,7 @@
 		<!-- TODO : création d’une propriété dont le nom est junit.version et la 
 			valeur 3.8.1 -->
 
-		<junit.version>4.11</junit.version>
+		<junit.version>4.13.1</junit.version>
 
 		 <!-- Création d’une propriété mode avec la valeur DEV. -->
 		
